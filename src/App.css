@@ -1,0 +1,28 @@
+.title{
+    font-family: Roboto;
+    text-align: center;
+    font-size: 35px;
+}
+.red{
+    
+    height:50px;
+    background-image: url("https://images.unsplash.com/photo-1654600417644-e26101ed5888?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+}
+h2{
+    font-family: Roboto;
+    font-size: 45px;
+    color: red;
+}
+.name{
+    font-size: 40px;
+}
+.image{
+    border-radius: 5px;
+}
+
+h3{
+    font-size: 45px;
+}
+.container{
+align-items: center;
+}
